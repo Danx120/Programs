@@ -1,0 +1,15 @@
+
+a=int()
+b=str()
+c=float()
+d=bool()
+x=3
+print('This value of x is:'+str(x))
+x=str(x)
+print(type(x))
+x=float(x)
+print(type(x))
+x=int(x)
+print(type(x))
+x=bool(x)
+print(type(x))
